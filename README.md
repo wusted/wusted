@@ -1,9 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Jean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jean Pereira, I'm a Linux/Cloud/Ops Engineer based in Costa Rica.
 
-Here are some ideas to get you started:
+* Currently working for [@oracle](https://github.com/oracle) as a Senior Engineer.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
