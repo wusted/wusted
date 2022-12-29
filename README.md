@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jean Pereira, I'm a Linux/Cloud/Ops Engineer based in Costa Rica.
+My name is Jean Pereira [LinkedIn](https://www.linkedin.com/in/jean-pereira-1018aa161/) , I'm a Linux/Cloud/Ops Engineer based in Costa Rica.
 
 - Currently working for [@oracle](https://github.com/oracle) as a Senior Engineer in the Oracle Linux Team.
 - 🌱 I’m currently learning everything related to Cloud Native. https://www.cncf.io/
