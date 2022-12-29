@@ -5,7 +5,7 @@ My name is Jean Pereira [LinkedIn](https://www.linkedin.com/in/jean-pereira-1018
 
 ## Skills
 - Linux.
-- Cloud (Oracle Cloud Infrastructure(main), and AWS)
+- Cloud (Oracle Cloud Infrastructure(main), AWS, and DigitalOcean)
 - Kubernetes, Bash, Terraform, Containers.
 - Splunk and Monitoring Tools related.
 - Some Python coding.  
