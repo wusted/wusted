@@ -6,7 +6,7 @@ My name is Jean Pereira [LinkedIn](https://www.linkedin.com/in/jean-pereira-1018
 - 🌱 I’m currently learning everything related to Cloud Native. https://www.cncf.io/
 
 ## Skills
-- Experience with most aspects of Linux. (OL/RHEL mostly, Debian in progress)
+- Experience with most aspects of Linux. (OL/RHEL mostly, Debian)
 - Using Cloud(AWS, Oracle Cloud Infrastructure) in Production since 2019.
 - Kubernetes, Bash, Terraform, Containers.
 - Splunk and Monitoring Tools related.
