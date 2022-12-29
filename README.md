@@ -8,5 +8,5 @@ My name is Jean Pereira [LinkedIn](https://www.linkedin.com/in/jean-pereira-1018
 - Cloud (Oracle Cloud Infrastructure(main), and AWS)
 - Kubernetes, Bash, Terraform, Containers.
 - Splunk and Monitoring Tools related.
-- Some Python coding.
+- Some Python coding.  
 --> 🌱Still learning, everyday more and more :) specially from: https://www.cncf.io/
