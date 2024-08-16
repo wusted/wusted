@@ -7,8 +7,8 @@ THIS IS MY PERSONAL ACCOUNT, NOT WORK RELATED.
 ## Skills
 - Linux.
 - Cloud (Oracle Cloud Infrastructure(main), AWS, and DigitalOcean)
-- Kubernetes, Bash, Terraform, Containers.
+- Kubernetes, Bash, Terraform, Ansible, Containers.
 - Splunk and Monitoring Tools related.
-- Some Python coding.  
+- Python and some Golang.
 
 --> 🌱Still learning, everyday more and more :) specially from: https://www.cncf.io/
